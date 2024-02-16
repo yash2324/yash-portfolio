@@ -17,20 +17,20 @@ const data = {
   about: {
     title: "My Background",
     description:
-      "I'm a Second-year B.Tech (Computer Science & Engineering) student. ",
+      "I'm a Second-year B.Tech (Computer Science & Engineering) student. I am currently exploring web development and DSA",
   },
   experience: {},
   skills: [
-    // {
-    //   skillName: "NextJS",
-    //   skillIcon: (
-    //     <img
-    //       alt="nextjslogo"
-    //       className={BOOTSTRAP_FOR_SKILL_ICON}
-    //       src="https://res.cloudinary.com/dwwtffefs/image/upload/v1689799688/next-js_wcrebp.svg"
-    //     />
-    //   ),
-    // },
+    {
+      skillName: "NextJS",
+      skillIcon: (
+        <img
+          alt="nextjslogo"
+          className={BOOTSTRAP_FOR_SKILL_ICON}
+          src="https://res.cloudinary.com/dwwtffefs/image/upload/v1689799688/next-js_wcrebp.svg"
+        />
+      ),
+    },
     {
       skillName: "ReactJS",
       skillIcon: (
